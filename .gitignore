@@ -1,0 +1,4 @@
+resource/
+**/__pycache__/
+*.so
+*.txt
